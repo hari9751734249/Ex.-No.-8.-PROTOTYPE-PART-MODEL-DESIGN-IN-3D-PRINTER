@@ -51,7 +51,7 @@
 <img width="1280" height="720" alt="empd3 2" src="https://github.com/user-attachments/assets/ccc90180-85c1-4773-be9a-294d7c27ef6a" />
 
 ### Name:HARI V
-### Register Number:215040106222
+### Register Number:212225040106
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
